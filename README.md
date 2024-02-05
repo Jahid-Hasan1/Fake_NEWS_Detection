@@ -1,4 +1,4 @@
-# Fake-News-Detection-Code-Computaion
+# Rumor-News-Detection
 # Instructions and included sources
 # Title-
 ## Deep Learning for NLP
